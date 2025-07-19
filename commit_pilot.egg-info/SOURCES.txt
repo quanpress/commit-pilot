@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+commit_pilot/main.py
+commit_pilot.egg-info/PKG-INFO
+commit_pilot.egg-info/SOURCES.txt
+commit_pilot.egg-info/dependency_links.txt
+commit_pilot.egg-info/entry_points.txt
+commit_pilot.egg-info/requires.txt
+commit_pilot.egg-info/top_level.txt

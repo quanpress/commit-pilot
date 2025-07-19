@@ -1,0 +1,2 @@
+[console_scripts]
+commit-pilot = commit_pilot.main:main

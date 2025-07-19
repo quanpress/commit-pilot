@@ -1,0 +1,11 @@
+[project]
+name = "commit-pilot"
+version = "0.1.0"
+dependencies = [
+    "transformers",
+    "torch",
+    "questionary",
+]
+
+[project.scripts]
+commit-pilot = "commit_pilot.main:main"
