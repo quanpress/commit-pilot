@@ -62,7 +62,7 @@ def generate_commit_message(diff):
     if not any(commit_message.lower().startswith(p) for p in prefixes):
         commit_message = f"feat: {commit_message}"
 
-    return commit_message
+    return commit_message.lower()
 
 def perform_commit(message):
     """Performs the git commit with the given message."""
